@@ -9,15 +9,11 @@ this script just makes my life easier.
 my arch-anywhere install consists of network-manager and i3 and nothing else.
 
 TO USE:
-	unpack the tarball with:
+	unpack, cd, install:
 	
 		tar -xvzf alexArchPostInstall.tar.gz
 	
-	enter the unpacked directory:
-	
 		cd alexArchPostInstall
-	
-	then just:
 	
 		sudo ./install.sh 
 	
