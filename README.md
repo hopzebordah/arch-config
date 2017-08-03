@@ -19,7 +19,7 @@ TO USE:
 	
 it's also a good idea to reboot afterwards.
 
-p.s. this program will not harm any of your files, EXCEPT for: 
+p.s. this program will not harm any of your files, BUT IT WILL REPLACE: 
 
 .vimrc .zshrc .oh-my-zsh .xinitrc .Xdefaults .config/i3/config .config/termite/config
 
