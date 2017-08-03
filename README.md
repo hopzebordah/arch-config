@@ -10,12 +10,15 @@ my arch-anywhere install consists of network-manager and i3 and nothing else.
 
 TO USE:
 	unpack the tarball with:
+	
 		tar -xvzf alexArchPostInstall.tar.gz
 	
 	enter the unpacked directory:
+	
 		cd alexArchPostInstall
 	
 	then just:
+	
 		sudo ./install.sh 
 	
 	it's also a good idea to reboot afterwards.
