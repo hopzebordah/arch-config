@@ -17,8 +17,10 @@ TO USE:
 	
 		sudo ./install.sh 
 	
-	it's also a good idea to reboot afterwards.
+it's also a good idea to reboot afterwards.
 
-p.s. this program will not harm any of your files, EXCEPT for:
-	.vimrc .zshrc .oh-my-zsh .xinitrc .Xdefaults .config/i3/config .config/termite/config
-	 unless you uncomment line 3 of install.sh ;)
+p.s. this program will not harm any of your files, EXCEPT for: 
+
+.vimrc .zshrc .oh-my-zsh .xinitrc .Xdefaults .config/i3/config .config/termite/config
+
+unless you uncomment line 3 of install.sh ;)
